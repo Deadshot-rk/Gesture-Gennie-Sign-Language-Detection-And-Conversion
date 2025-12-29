@@ -75,6 +75,6 @@ Demonstrated reliable performance for educational and assistive use cases.
 
 📁 Dataset
 
-Dataset was manually created and labeled.
+Dataset was manually created and labeled,but a sample trained model is uploaded.
 
 Not uploaded to GitHub due to size constraints.
